@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "image": "https://ke-images.servicecdn.ru/c86gm62kg4u35ihbppog/t_product_540_high.jpg#1672823025772",
+        "name": "T-shirt 1",
+        "price": 2100.234234234,
+        "article": "T1",
+        "available": true,
+        "category": "Мужские"
+      },
+      {
+        "image": "https://ke-images.servicecdn.ru/c3cqqguv6mqk8ve7f990/t_product_540_high.jpg#1672823152361",
+        "name": "Пижама",
+        "price": 3150.12312412,
+        "article": "T2",
+        "available": true,
+        "category": "Женские"
+      },
+      {
+        "image": "https://ke-images.servicecdn.ru/cecrri74s0e05mr4qm60/t_product_540_high.jpg#1672823152610",
+        "name": "Топ женский",
+        "price": 4200.51524,
+        "article": "T3",
+        "available": false,
+        "category": "Женские"
+      },
+      {
+        "image": "https://ke-images.servicecdn.ru/cedgm3aikke39661onvg/t_product_540_high.jpg#1672834532142",
+        "name": "Топик",
+        "price": 5300.1245512,
+        "article": "T4",
+        "available": true,
+        "category": "Мужские"
+      },
+      {
+        "image": "https://ke-images.servicecdn.ru/ccbfjvli6omb975ud8t0/t_product_540_high.jpg#1672823243537",
+        "name": "Футболка компрессионная",
+        "price": 6500.3522314,
+        "article": "T5",
+        "available": false,
+        "category": "Женские"
+      },
+      {
+        "image": "https://ke-images.servicecdn.ru/ca5ng90fnljt1srgc5j0/t_product_540_high.jpg#1672823243562",
+        "name": "Платье женское",
+        "price": 8700.4124123,
+        "article": "T6",
+        "available": true,
+        "category": "Женские"
+      }
+    ]
+  }
